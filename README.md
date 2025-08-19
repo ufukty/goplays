@@ -6,7 +6,7 @@ Read individual project [go.mods](./go.mod) for additional information.
 
 ## Running the example in Playground
 
-Visit https://go.dev/play/p/zd9_cMCH187
+Visit https://go.dev/play/p/afcVIPRim8K
 
 ## Generating Playground examples
 
