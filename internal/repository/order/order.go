@@ -3,8 +3,8 @@ package order
 import (
 	"fmt"
 
-	"github.com/ufukty/play/internal/common/database"
-	"github.com/ufukty/play/internal/common/logger"
+	"github.com/ufukty/goplays/internal/common/database"
+	"github.com/ufukty/goplays/internal/common/logger"
 )
 
 type Order struct{}

@@ -3,10 +3,10 @@ package repository
 import (
 	"fmt"
 
-	"github.com/ufukty/play/internal/common/database"
-	"github.com/ufukty/play/internal/common/logger"
-	"github.com/ufukty/play/internal/repository/order"
-	"github.com/ufukty/play/internal/repository/user"
+	"github.com/ufukty/goplays/internal/common/database"
+	"github.com/ufukty/goplays/internal/common/logger"
+	"github.com/ufukty/goplays/internal/repository/order"
+	"github.com/ufukty/goplays/internal/repository/user"
 )
 
 type Repository struct {

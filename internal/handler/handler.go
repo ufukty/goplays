@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/ufukty/play/internal/common/logger"
-	"github.com/ufukty/play/internal/handler/order"
-	"github.com/ufukty/play/internal/handler/user"
-	"github.com/ufukty/play/internal/service"
+	"github.com/ufukty/goplays/internal/common/logger"
+	"github.com/ufukty/goplays/internal/handler/order"
+	"github.com/ufukty/goplays/internal/handler/user"
+	"github.com/ufukty/goplays/internal/service"
 )
 
 type Handler struct {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/ufukty/play/internal/common/logger"
-	"github.com/ufukty/play/internal/service"
+	"github.com/ufukty/goplays/internal/common/logger"
+	"github.com/ufukty/goplays/internal/service"
 )
 
 type User struct {

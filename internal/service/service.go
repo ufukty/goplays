@@ -3,13 +3,13 @@ package service
 import (
 	"fmt"
 
-	"github.com/ufukty/play/internal/common/cache"
-	"github.com/ufukty/play/internal/common/config"
-	"github.com/ufukty/play/internal/common/logger"
-	"github.com/ufukty/play/internal/repository"
-	"github.com/ufukty/play/internal/service/email"
-	"github.com/ufukty/play/internal/service/order"
-	"github.com/ufukty/play/internal/service/user"
+	"github.com/ufukty/goplays/internal/common/cache"
+	"github.com/ufukty/goplays/internal/common/config"
+	"github.com/ufukty/goplays/internal/common/logger"
+	"github.com/ufukty/goplays/internal/repository"
+	"github.com/ufukty/goplays/internal/service/email"
+	"github.com/ufukty/goplays/internal/service/order"
+	"github.com/ufukty/goplays/internal/service/user"
 )
 
 type Service struct {

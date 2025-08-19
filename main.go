@@ -3,13 +3,13 @@ package main
 import (
 	"net/http"
 
-	"github.com/ufukty/play/internal/common/cache"
-	"github.com/ufukty/play/internal/common/config"
-	"github.com/ufukty/play/internal/common/database"
-	"github.com/ufukty/play/internal/common/logger"
-	"github.com/ufukty/play/internal/handler"
-	"github.com/ufukty/play/internal/repository"
-	"github.com/ufukty/play/internal/service"
+	"github.com/ufukty/goplays/internal/common/cache"
+	"github.com/ufukty/goplays/internal/common/config"
+	"github.com/ufukty/goplays/internal/common/database"
+	"github.com/ufukty/goplays/internal/common/logger"
+	"github.com/ufukty/goplays/internal/handler"
+	"github.com/ufukty/goplays/internal/repository"
+	"github.com/ufukty/goplays/internal/service"
 )
 
 func main() {

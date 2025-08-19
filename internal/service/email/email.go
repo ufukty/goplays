@@ -3,8 +3,8 @@ package email
 import (
 	"fmt"
 
-	"github.com/ufukty/play/internal/common/config"
-	"github.com/ufukty/play/internal/common/logger"
+	"github.com/ufukty/goplays/internal/common/config"
+	"github.com/ufukty/goplays/internal/common/logger"
 )
 
 type Email struct{}

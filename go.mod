@@ -45,4 +45,4 @@
 // Registering routes for Handler/Order
 // Registering routes for Handler/User
 
-module github.com/ufukty/play
+module github.com/ufukty/goplays
